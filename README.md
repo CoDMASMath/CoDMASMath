@@ -1,11 +1,13 @@
-# Code-JT-27
-Hey there! I'm Code-JT-27, a programmer that uses HTML, CSS, JS and Python.
+# CoDMASMath
 
-## My Website(s)
-My main website is https://code-jt.carrd.co and my blog is https://code-jt-blog.carrd.co.
+## About Us
+Welcome to the official GitHub profile of CoDMASMath. Here we'll be adding repositories depending on what we code.
 
-## How to contact me
-You can contact me at JoeyJtanner@outlook.com
+## Our Website
+You can check out our website at https://codmasmath.wordpress.com/
+
+## Contact
+You can contact us via our website or via email at github.backed350@passfwd.com
 
 <!---
 Code-JT-27/Code-JT-27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
